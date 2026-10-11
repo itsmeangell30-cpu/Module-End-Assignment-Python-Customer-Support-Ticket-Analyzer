@@ -17,6 +17,7 @@ A Python-based project to clean, analyze, and manage customer support ticket dat
 
 📊 Dataset Information
 
+
 🔄 Project Workflow
 
 📝 Step 1: Preloaded Ticket Data
@@ -33,6 +34,7 @@ A Python-based project to clean, analyze, and manage customer support ticket dat
 
 🔤 Step 7: Unique Word Extraction
 
+
 💡 Key Insights
 
 📈 Recommendations
@@ -42,6 +44,7 @@ A Python-based project to clean, analyze, and manage customer support ticket dat
 🔮 Future Enhancements
 
 🏁 Conclusion
+
 
 🌟 Project Overview
 
@@ -73,6 +76,8 @@ A Python-based project to clean, analyze, and manage customer support ticket dat
 
 🔤 Extracts unique words from all ticket descriptions.
 
+
+
 🎯 Problem Statement
 
 Customer support teams receive many service tickets every day.
@@ -92,6 +97,8 @@ Analyzing these tickets helps to:
 💡 Discover opportunities to improve customer satisfaction.
 
 💻 Solution: Build a Python-based system that cleans, processes, and analyzes customer support tickets to generate meaningful insights.
+
+
 
 🚀 Project Objectives
 
@@ -114,6 +121,8 @@ Analyzing these tickets helps to:
 ✅ Extract and sort unique words.
 
 ✅ Display the final cleaned dataset and analysis results.
+
+
 
 🛠️ Technologies Used
 
@@ -160,6 +169,8 @@ Extract unique words
 🔤 sorted()
 
 Sort unique words alphabetically
+
+
 
 📊 Dataset Information
 
@@ -284,6 +295,7 @@ Nisha
 Good service... quick response.
 
 🟡 Medium
+
 
 🔄 Project Workflow
 
